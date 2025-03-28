@@ -1,5 +1,5 @@
 describe('Clients API CRUD Tests', () => {
-    const baseUrl = 'http://localhost:5002/api';
+    const baseUrl = 'http://localhost:5260/api';
     const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9'; // Token fixo
   
     let clientId; // Para armazenar o ID do cliente criado
